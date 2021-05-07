@@ -1,0 +1,36 @@
+
+Regression:In statistical modeling, regression analysis is a set of statistical processes for estimating the relationships between a dependent variable and one or more independent variables 
+
+
+
+The ten components that should be included in the final report of data science project are,
+
+Cover Page 
+
+Table of contents
+
+Abstract or an executive summary
+
+Introductory 
+
+literature review
+
+Methodology 
+
+Result 
+
+Discussion 
+
+Conclusion
+
+Acknowledgement
+
+I am passionate about machine learning and IOT solutions .And i like pursue my data science career related to machine learning , automation and IOT  things . Since data collected from IOT devices takes human life to the next generation of living , i want to be part of those technology developments.
+
+
+
+Data science is a field which is used to find the hidden solutions for the unsolved problems from a large volume of recorded information or to get insights from those information . Larger companies or organizations use these insights and findings to improve their productivity and future product development.
+
+
+Data scientist is a person who has knowledge on math, computation and databases and works with all kinds of  engineers ,developers ,executives in an organization . He works with the large amount of data to explore hidden insights and present those insights understandable to peoples from different backgrounds. He uses data analytics , programming and visualization techniques and tools to produce useful insights from a large amount of pre recorded information.
+
